@@ -5,6 +5,14 @@ body{
     justify-content:  center;
     align-items: center; 
     flex-direction: column;
-    color: rgba(4, 59, 8, 0.651);
-    
+    color: rgba(1, 22, 2, 0.651);
+    background-image: url(https://media.istockphoto.com/photos/hiker-walks-on-snowy-mountain-picture-id638228326);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#container{
+    border-width: 1px;
+    border-style: solid;
+    border-color:green;
 }
